@@ -17,15 +17,30 @@ I build AI tools end-to-end — code review agents, voice pipelines, outreach au
 - 🔍 **[pr-sentinel](https://github.com/joydai2026-del/pr-sentinel)** — multi-lens AI code review. 4 specialist agents review every PR in parallel, one verdict.
 - 🛡️ **[repoguard](https://github.com/joydai2026-del/repoguard)** — 30-second AI safety scan for any GitHub repo. PASS / WARN / BLOCK.
 
-## Projects
+## Shipped
 
 | | |
 |---|---|
+| 📋 **[joy-claude-skills](https://github.com/joydai2026-del/joy-claude-skills)** | 153 open-source Claude Code workflows for AI-native development |
 | 🔍 **[pr-sentinel](https://github.com/joydai2026-del/pr-sentinel)** | Multi-lens AI code review — 4 agents in parallel, one verdict |
 | 🛡️ **[repoguard](https://github.com/joydai2026-del/repoguard)** | 30-second AI safety scan for any GitHub repo |
+
+## Building
+
+| | |
+|---|---|
 | 🎙️ **[voicenote](https://github.com/joydai2026-del/voicenote)** | Talk 5 min → publish-ready article via Whisper + Claude |
 | ✉️ **[coldspark](https://github.com/joydai2026-del/coldspark)** | CSV of leads → Claude-personalized outreach |
 | 📰 **[nichebeat](https://github.com/joydai2026-del/nichebeat)** | Any niche → daily AI digest via HN + Reddit + Claude |
+
+## Writing
+
+- [Stop Building for Today. It Is Already Too Late.](https://newsletter.ownlyagent.com/p/stop-building-for-today-it-is-already)
+- [The Dawn of the Agentic OS: Building the AI Kernel](https://newsletter.ownlyagent.com/p/the-dawn-of-the-agentic-os-building)
+- [Multi-Agent AI Coding Workflows: How I Ship Better Products Faster](https://newsletter.ownlyagent.com/p/multi-agent-ai-coding-workflows)
+- [Stop Babysitting Your Agents](https://newsletter.ownlyagent.com/p/stop-babysitting-your-agents-a-workflow)
+
+→ [All articles](https://newsletter.ownlyagent.com/t/teacolumn)
 
 ---
 
