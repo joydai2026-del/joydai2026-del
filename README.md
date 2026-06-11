@@ -27,6 +27,7 @@ I design and ship AI systems end to end — autonomous pipelines, voice intake a
 - 📤 **[outreach-agent](https://github.com/joydai2026-del/outreach-agent)** — end-to-end outreach: LLM personalization, send, follow-up scheduling
 - 📞 **[voice-intake-agent](https://github.com/joydai2026-del/voice-intake-agent)** — AI takes the first client call: voice processing, requirement extraction, calendar booking
 - 📋 **[client-intake-agent](https://github.com/joydai2026-del/client-intake-agent)** — web intake that understands free text and routes clients intelligently
+- ☎️ **[front-desk-crm](https://github.com/joydai2026-del/front-desk-crm)** — AI receptionist + CRM for home-services businesses: books jobs, takes deposits, runs by voice
 
 ### Agent infrastructure
 
