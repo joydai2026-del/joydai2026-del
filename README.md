@@ -1,6 +1,6 @@
 # Hi, I'm Joy Dong
 
-Community person who ships AI tools. I like turning real problems from developers, shoppers and families into small, honest open source projects, then sharing what I learn along the way.
+I build AI tools and AI systems that solve real problems for developers, shoppers and families.
 
 Find me at [joydong.org](https://joydong.org).
 
