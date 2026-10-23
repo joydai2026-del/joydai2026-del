@@ -1,6 +1,6 @@
 # Hi, I'm Joy Dong
 
-DevRel and community builder who ships AI tools. I like turning real problems from developers, shoppers and families into small, honest open source projects, then sharing what I learn along the way.
+Community person who ships AI tools. I like turning real problems from developers, shoppers and families into small, honest open source projects, then sharing what I learn along the way.
 
 Find me at [joydong.org](https://joydong.org).
 
