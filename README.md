@@ -1,27 +1,16 @@
-# Hi, I'm Joy Dong
+# Hi, I'm joydai2026-del
 
-I build AI tools for real workflows and write about what I learn.
+I build small, honest AI tools for everyday problems: shopping, language, school, family safety and online accounts.
 
-My work connects agent operations, usable products, and technical education. I design the systems, direct AI coding agents, review the results, and own the decisions.
+## Featured projects
 
-**[Portfolio](https://www.joydong.org) · [Recorded demos](https://www.joydong.org/demos)**
+| Project | What it does |
+|---|---|
+| [AI Shopping Check](https://github.com/joydai2026-del/agent-readiness-checker-public) | Free scan that shows whether AI shopping assistants (ChatGPT, Perplexity, Claude, Google AI Mode) can read a Shopify or WooCommerce store's products. |
+| [Offline Translate](https://github.com/joydai2026-del/live-translate-offline-public) | Speak or type English or Chinese and get the translation on your phone, with no internet after a one-time download. |
+| [write-receipt](https://github.com/joydai2026-del/write-receipt-public) | A private writing recorder that gives students a signed receipt of how their text was typed, edited and pasted. |
+| [Family Safe Word](https://github.com/joydai2026-del/family-safeword-public) | Bilingual kit for agreeing on and practicing a family safe word against AI voice-clone scam calls. |
+| [Ban Rescue](https://github.com/joydai2026-del/ban-rescue-public) | Appeal plan, letter and evidence checklist for banned Instagram, WhatsApp Business or Google Play accounts, using official channels only. |
+| [Censorship Diff Explorer](https://github.com/joydai2026-del/censorship-diff-explorer-public) | Compare daily snapshots of social media posts and see which ones disappeared (ships with sample data only). |
 
-## Featured public work
-
-| Project | What you can explore |
-| --- | --- |
-| **[Sponsor Ops](https://github.com/joydai2026-del/sponsor-ops-case-study)** | Sponsorship booking and operations case study, with a recorded demo and standalone Python examples of capacity limits, reservations, approvals, and pricing. The product code is private. |
-| **[PR Sentinel](https://github.com/joydai2026-del/pr-sentinel)** | Four AI review perspectives combined into one verdict. Python/FastAPI API and Next.js demo; automatic GitHub App integration is still planned. |
-| **[Bilingual Vocab Game](https://github.com/joydai2026-del/bilingual-vocab-game-public)** | Chinese-English vocabulary games built with TypeScript and Cloudflare Workers. Dictionary-first enrichment, editable translations, and multiplayer rooms. |
-| **[Agent Skills](https://github.com/joydai2026-del/skills)** | Public workflow skills for AI evaluations, independent review, safe publishing, and teaching codebases. |
-
-Also explore **[Agent Ops Framework](https://github.com/joydai2026-del/agent-ops-framework)**, a reference implementation for scheduling, shared knowledge, task ownership, and human approval in recurring agent workflows.
-
-## More demos
-
-[My demo library](https://www.joydong.org/demos) includes Idea Companion (voice conversations to Notion learning pages), Spend Detector (receipt capture and spending insights), and News Curator. These are recorded demonstrations; some underlying repositories are private.
-
-## Writing
-
-- **[The AI Collective](https://newsletter.aicollective.com/)**: AI practitioner newsletter.
-- **[Daily TEA](https://newsletter.ownlyagent.com/)**: my AI newsletter for builders.
+More at [joydong.org/projects](https://joydong.org/projects).
