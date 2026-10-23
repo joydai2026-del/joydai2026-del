@@ -4,7 +4,7 @@ Community person who ships AI tools. I like turning real problems from developer
 
 Find me at [joydong.org](https://joydong.org).
 
-Where I write: [Daily TEA](https://newsletter.ownlyagent.com/), my AI newsletter for builders, and [The AI Collective](https://newsletter.aicollective.com/), a community of about 200,000 members.
+Where I write: [Daily TEA](https://newsletter.ownlyagent.com/), my AI newsletter for builders, and [The AI Collective](https://newsletter.aicollective.com/) (200K readers).
 
 ## Featured projects
 
