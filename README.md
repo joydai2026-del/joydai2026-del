@@ -16,7 +16,7 @@ Where I write: [Daily TEA](https://newsletter.ownlyagent.com/), my AI newsletter
 | [Live Translate](https://github.com/joydai2026-del/live-translate-public) | Live English and Chinese interpreting for two people in the same room: one device listens, the other reads the translation on a phone. |
 | [Skills](https://github.com/joydai2026-del/skills) | Agent skills I actually use, published as filtered public copies. |
 
-Also on Apify: [China News Feed](https://apify.com/china.unofficial/china-news-feed), a structured feed of Chinese news for builders and researchers.
+Also on Apify: [China News Feed](https://apify.com/china.unofficial/china-hot-search-english), a structured feed of Chinese news for builders and researchers.
 
 ## Let's build together
 
